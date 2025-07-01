@@ -67,6 +67,9 @@ header{
 .btn-orange{
     background-color: orange;
 }
+.btn-light{
+    background-color: black;
+}
 .btn-green{
     background-color: green;
 }
